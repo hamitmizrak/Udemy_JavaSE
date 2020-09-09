@@ -22,6 +22,7 @@ public class ShortPath {
 	 * 
 	 * F2 değiştirmek
 	 * 
+	 * Ctrl+space=intellicense
 	 * 
 	 */
 
