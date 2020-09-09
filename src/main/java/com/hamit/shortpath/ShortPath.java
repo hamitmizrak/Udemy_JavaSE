@@ -18,6 +18,10 @@ public class ShortPath {
 	 * Ctrl+Shift+F= Sayfası Formatalama (öncelikle kelime yada bütün sayfayı
 	 * seçiyorsunu
 	 * 
+	 * ctrl+D= Bulunduğuu satırı siler
+	 * 
+	 * F2 değiştirmek
+	 * 
 	 * 
 	 */
 
