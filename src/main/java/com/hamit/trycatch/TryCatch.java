@@ -65,6 +65,7 @@ public class TryCatch {
 		 */
 
 		try {
+			int y = 5;
 
 		} catch (Exception e) {
 			e.printStackTrace();
