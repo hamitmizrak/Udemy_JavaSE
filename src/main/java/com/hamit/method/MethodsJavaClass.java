@@ -2,8 +2,6 @@ package com.hamit.method;
 
 import java.util.Scanner;
 
-import com.hamit.math.FinalClas;
-
 public class MethodsJavaClass {
 
 	public static void main(String[] args) {
@@ -12,10 +10,10 @@ public class MethodsJavaClass {
 		 * methodDeneme(); String str = methodString();
 		 * System.out.println("Adınız ve soyadınız..." + str);
 		 */
-		
-		FinalClas.hamitDegiskeni;
 
-		Math.pow(2, 3);
+		// FinalClas.hamitDegiskeni;
+
+		// Math.pow(2, 3);
 		try {
 
 			System.out.println(ScannerX());
