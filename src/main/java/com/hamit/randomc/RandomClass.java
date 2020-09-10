@@ -2,7 +2,8 @@ package com.hamit.randomc;
 
 import java.util.Random;
 
-public class RandomClass {
+public class RandomClass<T> {
+	T as;
 
 	public static void main(String[] args) {
 
@@ -19,5 +20,12 @@ public class RandomClass {
 		Random rnd = new Random();
 		int y = rnd.nextInt(8) + 3;
 		System.out.println(y);
+
+		JenericMethods("Ahmet");
+
+	}
+
+	public static <T> void JenericMethods(T t) {
+		System.out.println("jenerik metot: " + t);
 	}
 }
