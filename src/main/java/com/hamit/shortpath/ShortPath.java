@@ -5,20 +5,20 @@ public class ShortPath {
 	/*
 	 * 
 	 * 
-	 * Ctrl+Shift+c= Yorum satırı haline gelir
+	 * Ctrl+Shift+C= Yorum satırı haline gelir
 	 * 
-	 * Ctrl+Shift+s= komple kaydeder
+	 * Ctrl+Shift+S= komple kaydeder
 	 * 
-	 * Shift+alt+r= hepsini değiştirmek
+	 * Shift+alt+R= hepsini değiştirmek
 	 * 
-	 * Ctrl+Alt+g= eçili olan kelime heryerden aranır
+	 * Ctrl+Alt+G= eçili olan kelime heryerden aranır
 	 * 
 	 * Ctl+Shift+O =paketleri import eder
 	 * 
 	 * Ctrl+Shift+F= Sayfası Formatalama (öncelikle kelime yada bütün sayfayı
 	 * seçiyorsunu
 	 * 
-	 * ctrl+D= Bulunduğuu satırı siler
+	 * ctrl+D= Bulunduğu satırı siler
 	 * 
 	 * F2 değiştirmek
 	 * 
